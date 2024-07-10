@@ -1,0 +1,16 @@
+.input-wrapper{
+    background-color: rgb(254, 253, 253);
+    width: 100%;
+    border-radius: 20px;
+    height: 25px;
+    padding-right: 4px;
+}
+input{
+    padding: 9 9 9 9;
+    background-color: white;
+    border: none;
+    border-radius: 9px;
+    outline: none;
+    color:black;
+    
+}
